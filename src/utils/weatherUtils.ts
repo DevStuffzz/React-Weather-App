@@ -32,7 +32,7 @@ export async function getWeather(lat: number, lon: number, unit: "celsius" | "fa
  * Mock or simple placeholder for weather alerts.
  * Open-Meteo provides limited disaster data unless using specific endpoints.
  */
-export async function getAlerts(lat: number, lon: number): Promise<string[]> {
+export async function getAlerts(_lat: number, _lon: number): Promise<string[]> {
   // For now, we’ll simulate alerts — you could later replace this with
   // an API like Meteoalarm or Weather.gov alerts API.
   const fakeAlerts: string[] = [];
