@@ -1,6 +1,6 @@
 # React Weather Dashboard
 
-Live demo: https://devstuffzz.github.io/react.weather.app/
+Live demo: https://devstuffzz.github.io/react.weather.app/#/
 
 A modern weather dashboard built with React, TypeScript, Tailwind CSS v3, and the Open-Meteo API.
 This app lets users search for cities, view a 12-hour temperature chart, precipitation chances, wind speeds, and active alerts — all in a sleek, responsive interface.
